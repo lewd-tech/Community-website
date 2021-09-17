@@ -122,8 +122,9 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !modwhen                     | Posts a snippet explaining how your application is processed                                         |
 | !modprob, !modproblem        | (Tier 4+ only) Informs a member that has a concern about a mod action to DM Moderators' Mail         |
 | !modsuggestion               | (For Moderators only) Informs a member that has a suggestion about the server to DM Moderators' Mail |
+| !modping                     | Posts a snippet explaining when it is appropriate to ping Moderators                                 |
 | !banappeal                   | (For Moderators only) Ban appeal instructions.                                                       |
-| !images                      | Explains as an antispam measure that you need the `@Regular (Tier 1)` role to post images            |
+| !images                      | Explains as an antispam measure that you need the `@Tier 1 (Regular)` role to post images            |
 | !accounts                    | Explains as that we are not able to help anyone with purchasing or account issues                    |
 | !rules                       | Explains how and where to learn our rules                                                            |
 | !bots                        | Links to info about the server's bots                                                                |
@@ -141,8 +142,6 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | $nj-trex                     | Displays the Insider Program Ninjacat emoticon                                                       |
 | %%microsoft verify           | Start verification process in #employee-verification                                                 |
 | !gstart                      | Starts a giveaway                                                                                    |
-| !mscord                      | Displays info about the rumored Microsoft aquisition of Discord                                      |
-| !windows11                   | Displays info about the June 24 Windows announcement and rumors surrounding Windows 11 and 21h2      |
 | !suicide-hotline             | Displays a link about where to go to help with suicidal behavior or thoughts                         |
 
 ## Frequently Asked Questions
@@ -162,21 +161,21 @@ When Microsoft decide to release it. Use search, since it’s likely this questi
 ### Are those real Microsoft employees?
 Yes, they are. They’re verified through their employee account. However, they aren’t here on official business and anything they say does not in any way represent Microsoft. They’re just here like any other user. Don’t ping them for support unless they’re actively helping you; it will be considered a violation of rule 5.
 ### Why can’t I post images or videos?
-As a spam prevention measure, you need the `@Regular (Tier 1)` role to be able to upload images. This role can be gained by being active for a little while. In the meantime, you can upload images to an alternative service like [Imgur](https://imgur.com/).
+As a spam prevention measure, you need the `@Tier 1 (Regular)` role to be able to upload images. This role can be gained by being active for a little while. In the meantime, you can upload images to an alternative service like [Imgur](https://imgur.com/).
 ### I got warned! How many times can I get warned before I get banned?
 There is no set number; that is up to the discretion of the Moderators. We suggest that you read the rules and follow them as to avoid any conflicts.
 ### I applied to become a moderator, how long before I get an answer? 
 We will get back to you only if we need to talk to you regarding your application. You may or may not hear anything back (patience is a good quality we look at ;) ). Consider it analogous to a job application, your info is pooled with other people who are also interested in the position and it is up to us to determine who the best fit for the position is, and when to bring them on board. 
 
 ## Ban Appeal Process
-You can send ban appeals <a href="https://msc-ban-appeals.netlify.app/" title="link to appeal form">here</a> if you meet our requirements, appeal will be looked into by our moderators team.
+You can send ban appeals <a href="https://appeal.msft.chat/" title="link to appeal form">here</a> if you meet our requirements, appeal will be looked into by our moderators team.
 
 ### Requirements 
 * 120 days passed since you were banned.
 * Being able to explain why you were banned, that shows us that you understand that you weren't banned for no reason and acknowledge your mistake.
 
 ## How Do I Apply to be a Moderator?
-If you wish to apply to our moderation team, you can [apply here](https://forms.office.com/r/GzCX7GgAxU).
+If you wish to apply to our moderation team, you can [apply here](https://apply.msft.chat).
 
 ## Invite Link
 
