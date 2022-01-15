@@ -11,7 +11,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 #### 8. Users in direct violation of Discord's Terms of Service may be banned without warning. This includes the use of userbots or not meeting the minimum age requirement.
 #### 9. Check the description in each channel before posting as extended rules may exist for that channel.
 #### 10. Respect and listen to our Moderators' decisions, requests, and wishes; do not waste their time. This includes allowing Moderators to do their job. Helping others find proper channels is helpful, but do not take the role upon yourself or threaten others with punishments. Instead, report in Modmail.
-#### 11. No content related to piracy or illegal activities.
+#### 11.No content related to piracy or illegal activities, including black and grey market sites of any kind.
 #### 12. Do not discuss or make unnecessary comments or questions (especially condescending in nature) about punishments given to others or yourself. All Modmail communication is private and should not be shared or discussed in the server. If you have questions or concerns, contact Modmail.
 #### 13. Do not attempt to take support or other requests outside of the server as we cannot ensure your or the user's safety from scams, trolling and abuse. This includes suggesting the use of DMs or remote assistance tools (such as Quick Assist or TeamViewer).
 #### 14. No problematic content or media. This includes anything that could induce epilepsy (without obstructing the content with a spoiler and making a disclaimer), anything that can crash, restart or exploit the Discord client, or trigger a user's antivirus (even if it is not inherently dangerous).
@@ -31,7 +31,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 ## Moderator Help
 📫 For all server-related issues, message **@Moderators mail**. The bot will create a thread for your enquiry and alert active moderators to it.
 
-❗ Do not ping **@Moderators** unless there is an emergency that requires immediate intervention, such as a server raid or significant spam.
+❗ Do not ping **@Moderators** or **@Lead Moderators** unless there is an emergency that requires immediate intervention, such as a server raid or significant spam.
 ## Channels and Their Uses
 | Channel                    | Description                                                                                                                                                                                                                                                               |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -48,7 +48,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | #legacy-stuff              | Have you got an old DOS PC, a Palm Pilot, or just really love Windows 7 or XP? Feel free to discuss it here. There’s plenty of like-minded thinkers here who love the history of computing.                                                                        |
 | #mobile                    | Talk about all your mobile devices here, be it phones, tablets or smart watches. Any operating system and manufacturer are welcomed here.                                                                                                                                 |
 | #linux-and-more            | Talk about WSL and your favorite Linux distributions, or get help installing Gentoo and picking which DE to use.                                                                                                                                                           |
-| #it-pros                   | This isn’t tech support, this is where you discuss Servers, Azure, PowerShell, Office 365, SharePoint, Teams, Windows Server, Active Directory, OneDrive, Patching, Security, Automation, Compliance, Hyper-V... All the fun stuff!                                     |
+| #sysadmin                  | This isn’t tech support, this is where you discuss Servers, Azure, PowerShell, Office 365, SharePoint, Teams, Windows Server, Active Directory, OneDrive, Patching, Security, Automation, Compliance, Hyper-V... All the fun stuff!                                     |
 | #development               | All your programming queries can be asked here. If you’re sharing code snippets, then using code blocks (\`\`\````code goes here```\`\`\`) really helps keep things tidy. Like #technical-support, this is community help only.                                           |
 | #gaming                    | News and info about games can go here, as well as screenshots, clips and asking if anyone wants to play anything.                                                                                                                                                         |
 | #movies-books-and-tv       | A place for conversation about movies, books, and TV shows. Try to not spoil anything, and make sure to use spoiler tags.                                                                                                                                                 |
@@ -58,6 +58,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | #photography               | Things and thangs that you captured. This channel is not for posting memes, for memes use #random-stuff.                                                                                                                                                                   |
 | #music                     | Talk about your favourite music and artists here. You can feel free to share Spotify/YouTube links etc. Occasionally, we may host music listening parties that you can join in with and suggest songs for.                                                                |
 | #tech-support              | Have you got a problem that you’re unable to fix, or just a query that you can’t find the answer for? Ask here! Any support offered here is not official Microsoft support, is offered upon other members' discretion, and may not be accurate or work.                 |
+| #cts-support-feed          | If you want to provide support for other peoples' tech issues, you can check in this channel for feeds of `@Community Tech Support` pings.                                                                                                                                  |
 | #tqs-break-room            | TQS members can use this channel to discuss relevant thoughts, ideas, and opinions related to issues currently going on in #tech-support.                                                                                                                                 |
 | #office                    | If you need help with Office-related queries, including Word, Excel and PowerPoint assistance, then ask here for more dedicated help. You can also use this channel to just talk about Office and its features.                                                            |
 | #purchase-advice           | Ask for help on what to buy/upgrade, give advice to others or get help on building your own custom PC.                                                                                                                                                                     |
@@ -91,8 +92,9 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !t-cleanboot            | Displays info about Windows clean boot                                 |
 | !bsod                   | Displays info about diagnosing BSODs                                   |
 | !patience               | Reminds you to be patient when asking questions                        |
-| !download               | Describes where to download Windows 11                                 |
-| !mct                    | Describes where to download Windows 10                                 |
+| !download11             | Describes where to download Windows 11                                 |
+| !download10             | Describes where to download Windows 10                                 |
+| !download               | Describes where to download Windows 10 and 11                          |
 | !graceperiod            | Talks about using Windows inactivated                                  |
 
 ### Staying Updated Commands

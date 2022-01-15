@@ -11,7 +11,7 @@
 | Tier 7 (Mega hyper uber regular)                                                             | MEE6 Level 70                                                         | Access to Audit Log and Server Insights                                                                                                |
 | Tier 8 (Ultra mega hyper uber regular)                                                       | MEE6 Level 85                                                         | Decorative                                                                                                                      |
 | Tier S (Extremely ultra mega hyper uber regular)                                             | MEE6 Level 100                                                        | Decorative                                                                                                                      |
-| Tier X (Unbelievably ludicrously insanely seriously ridiculously stupidly regularly regular) | MEE6 Level 125                                                        | Decorative                                                                                                                      |
+| Tier X (Unbelievably ludicrously insanely seriously ridiculously stupidly regularly regular) | MEE6 Level 125                                                        | Hoisted in sidebar                                                                                                                         |
 | 💎 Nitro boosters                                                                            | Boost the server with Discord Nitro                                   | Hoisted in sidebar, access to #lounge, access to Voice Channel screen sharing/streaming                                                 |
 | Community Tech Support                                                                       | Have Technical Queries Slayer, use !on-call command                   | Can be mentioned for assistance when necessary                                                                                         |
 | Technical Queries Slayer                                                                     | Be extremely helpful in #tech-support                                 | Can pin and delete messages and create threads in #tech-support, as well as bypass its slowmode. Also provides a private channel − #tqs-break-room |
@@ -54,7 +54,7 @@ Moderation commands are available through Cliptok and Dyno. Some commands are re
 | Edit member's infraction     | !editwarn <member​> <warning ID​> <reason>   | All moderators (Permanent moderators for warnings not created by themselves) |
 | Remove member's infraction   | !delwarn <member​> <warning ID​>             | All moderators (Permanent moderators for warnings not created by themselves) |
 | Display member’s infractions | !infractions [member]                        | All members                                                                  |
-| Grant Tier 1 to member       | !grant [member]                              | Permanent moderators                                                         |
+| Grant Tier 1 to member       | !grant [member]                              | All moderators                                                         |
 | Clear messages               | !clear [member] <message count​>             | All moderators                                                               |
 | Dehoist                      | !dehoist <users​>                            | All moderators                                                               |
 | Activate slow mode           | !slowmode <duration¦off​>                    | All moderators                                                               |
@@ -223,8 +223,7 @@ Cliptok will automatically mute users after they pass a certain threshold of inf
 | 2 infractions or more in the last 30 days  | Mute for 3 hours                                                                             |
 | 4 infractions or more in the last 30 days  | Mute for 6 hours                                                                             |
 | 6 infractions or more in the last 30 days  | Mute for 12 hours                                                                            |
-| 8 infractions or more in the last 30 days  | Mute for 1 day                                                                               |
-| 6 infractions or more in the last 30 days  | Mute for 12 hours                                                                            |
+| 8 infractions or more in the last 30 days  | Mute for 1 day                                                                               |                                                                            |
 | 10 infractions or more in the last 30 days | Permanent mute                                                                               |
 | 2 infractions or more in the last 2 days   | Mute for 3 hours                                                                             |
 | 3 infractions or more in the last 2 days   | Mute for 6 hours                                                                             |
