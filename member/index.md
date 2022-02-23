@@ -153,6 +153,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !gstart                               | Starts a giveaway                                                                                    |
 | !suicide-hotline                      | Displays a link about where to go to help with suicidal behavior or thoughts                         |
 | !w11-hardware                         | Displays links/info on Windows 11 on unsupported hardware                                            |
+| !w11-stable                           | Explains the stability and experience people may have with Windows 11                                |
 
 ## Frequently Asked Questions
 ### Is this server official?
@@ -238,13 +239,3 @@ The r/Azure Discord server is a friendly community devoted to Microsoft Azure. T
 Welcome to the Excel User Community! More than just a Q&A forum, we're hoping to bring users together to freely discuss Excel, educate and open up opportunities to improve, as individuals and as a community.
 
 [Discord](https://discord.gg/FjJfTZdtXg) - [Reddit](https://reddit.com/r/Excel)
-
-### Fluent Design Hub
-Welcome to Fluent Design Hub, the place for all things UI and UX design related! Discover fan-made designs from our many members, discuss new trends and share your thoughts on such topics as Aero, Material Design or Apple Design!
-
-[Discord](https://discord.gg/29jnjCrcsn) - [Reddit](https://reddit.com/r/FluentDesign)
-
-### Windows Mobile Hub
-Windows Mobile Hub is a community for windows phone and Microsoft enthusiasts where you can share progress of new windows mobile apps and other software, wallpapers, camera pics, resources and showcase devices and discuss about technology.
-
-[Discord](https://discord.gg/yQ6PFyUqXC) - [Reddit](https://www.reddit.com/r/WindowsMobile/)
