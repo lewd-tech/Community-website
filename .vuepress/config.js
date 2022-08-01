@@ -65,8 +65,8 @@ module.exports = {
             link: '/wiki/fixing-microsoft-store'
           },
           {
-            text: 'Installing Windows 10',
-            link: '/wiki/installing-windows-10'
+            text: 'Installing Windows',
+            link: '/wiki/installing-windows'
           },
           {
             text: "Joining the Windows Insider Program",
@@ -83,6 +83,14 @@ module.exports = {
           {
             text: 'Using the Media Creation Tool',
             link: '/wiki/using-the-media-creation-tool'
+          },
+          {
+            text: 'Common Windows Misconceptions',
+            link: '/wiki/common-misconceptions'
+          },
+          {
+            text: 'The Windows Feature Store',
+            link: '/wiki/windows-feature-store'
           }
         ]
       },

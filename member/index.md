@@ -7,7 +7,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 #### 4. Do not stir up drama or laugh at others' misfortune if they get punished. If there is a conflict, work to defuse it instead of making it worse.
 #### 5. Do not mention or DM Moderators, Microsoft Employees, or any other members who aren't part of the current conversation for any matter, unless you share a mutual relationship. DM Modmail for all moderation-related queries and only ping @Moderator for emergencies like a raid or significant spam.
 #### 6. Refrain from using too many special characters in your nickname. A symbol or two is fine but have a normal alphanumeric name that is easily typed. Also, do not impersonate any public figures. Having the same name and profile picture as a product/service is allowed but do not role-play as them.
-#### 7. Use the correct channels for your messages. If there is a better channel for the current conversation then use it, and don't post the same thing in multiple places. Furthermore, political content of any kind (including memes) belongs exclusively in #politics, unlocked at Tier 2.
+#### 7. Use the correct channels or threads for your messages. If there is a better place for the current conversation then use it, and don't post the same thing in multiple places. Furthermore, political content of any kind (including memes) belongs exclusively in #politics, unlocked at Tier 2.
 #### 8. Users in direct violation of Discord's Terms of Service may be banned without warning. This includes the use of userbots or not meeting the minimum age requirement.
 #### 9. Check the description in each channel before posting as extended rules may exist for that channel.
 #### 10. Respect and listen to our Moderators' decisions, requests, and wishes; do not waste their time. This includes allowing Moderators to do their job. Helping others find proper channels is helpful, but do not take the role upon yourself or threaten others with punishments. Instead, report in Modmail.
@@ -16,7 +16,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 #### 13. Do not attempt to take support or other requests outside of the server as we cannot ensure your or the user's safety from scams, trolling and abuse. This includes suggesting the use of DMs or remote assistance tools (such as Quick Assist or TeamViewer).
 #### 14. No problematic content or media. This includes anything that could induce epilepsy (without obstructing the content with a spoiler and making a disclaimer), anything that can crash, restart or exploit the Discord client, or trigger a user's antivirus (even if it is not inherently dangerous).
 #### 15. No typing in any other language than English; we cannot moderate different languages and most people here speak in English. Failure to oblige will result in a warning or mute.
-#### 16. Non contributive, incoherent behavior which is disruptive to the community and conversations will not be tolerated.
+#### 16. Non-contributive or incoherent behavior which is disruptive to the community and conversations will not be tolerated. This includes bumping/unarchiving threads without contributing anything relevant to them.
 ## Roles
 | Role                   | Description                                                                                                                                                                                                                                                                                                                                       |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -90,6 +90,8 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !t-cleaners             | Displays info about space and speed "cleaners" for Windows             |
 | !t-boosters             | Displays info about Driver updates and 3rd party solutions             |
 | !t-cleanboot            | Displays info about Windows clean boot                                 |
+| !t-ramuse               | Displays info about RAM utilization                                    |
+| !t-feedback             | Talks about Microsoft receiving your feedback                          |
 | !bsod                   | Displays info about diagnosing BSODs                                   |
 | !patience               | Reminds you to be patient when asking questions                        |
 | !download11             | Describes where to download Windows 11                                 |
@@ -224,11 +226,6 @@ r/Apple is the largest Apple-related community on Discord. Officially affiliated
 We are the r/Google Subreddit Discord Server, a laid-back community server to hangout with others and communicate about discussion of Google products and services in addition to receiving tech support from enthusiasts.
 
 [Discord](https://discord.gg/Google) - [Reddit](https://reddit.com/r/Google)
-
-### r/iPhone
-We're the Discord server for the largest online Apple-related forum and the flagship server for Apple's flagship device. Join to talk iPhones, Apple, technology, or get technical support!
-
-[Discord](https://discord.gg/iPhone) - [Reddit](https://reddit.com/r/iPhone)
 
 ### r/Azure
 The r/Azure Discord server is a friendly community devoted to Microsoft Azure. This Discord server was built for Azure professionals and Azure enthusiasts alike.
