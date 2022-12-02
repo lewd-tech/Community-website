@@ -40,3 +40,12 @@ Below is a list of relevant features that may be of interest. Despite being list
 | 39145991   | Enable to use above features on Beta | 22621.160       |
 | 37010913   | Move search button to left           | 21536           |
 | 37969115   | Show the desktop search bar          | 25120           |
+| 40887771   | Move new searchbox next to widgets   | 25217           |
+| 39072097   | New taskbar loading animation        | 25179 / 22622.575 |
+| 39072097   | Task Manager on Taskbar Conext Menu  | 25211           |
+| 38764045   | New system tray                      | 25211           |
+| 34878152   | Animated Settings navigation panel icons | 25197       |
+| 26008830   | Tablet-optimized Taskbar             | 25197           |
+| 38652916   | Widgets settings menu                | 25217           |
+| 39413510   | Studio Effects on quick actions on arm64 devices | 25236 |
+| 39427030 and 41249924 | Energy recommendations on settings | 25231 |

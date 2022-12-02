@@ -99,6 +99,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !download10             | Describes where to download Windows 10                                 |
 | !download               | Describes where to download Windows 10 and 11                          |
 | !graceperiod            | Talks about using Windows inactivated                                  |
+| !t-vcredist             | Displays links to download Visual C++ Redistributable                  |
 
 ### Staying Updated Commands
 | Command                 | Function                                                                                             |
@@ -237,3 +238,8 @@ The r/Azure Discord server is a friendly community devoted to Microsoft Azure. T
 Welcome to the Excel User Community! More than just a Q&A forum, we're hoping to bring users together to freely discuss Excel, educate and open up opportunities to improve, as individuals and as a community.
 
 [Discord](https://discord.gg/FjJfTZdtXg) - [Reddit](https://reddit.com/r/Excel)
+
+### Intel Insiders Community
+The Intel® Insiders Discord is a community hangout specifically for enthusiasts of the Personal Computer from DIYers, PC Gamers, Creators, Performance Tuners and Game Devs. There are multiple sections to help community members find helpful support, share gripping stories, squad up in games, connect with other like-minded individuals and get direct access to Intel engineers and evangelists.
+
+[Discord](https://discord.gg/intel)
